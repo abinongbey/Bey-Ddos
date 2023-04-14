@@ -1,4 +1,6 @@
-# V-DdoS<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
+# Hi I am Abinong Bey can say a script kiddie too 😅😅
+I made this tool for myself to use but if u got this tool, use it wisely
+# Bey-DdoS<h1 style="color:red" align="center">What is Bey-DdoS tool?</h1>
 <div>
 <p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.</b></p>
 <img src="https://www.instagram.com/p/CpW8HFVJWaM/?igshid=YmMyMTA2M2Y=.jpg">
