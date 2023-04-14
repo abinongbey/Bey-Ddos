@@ -10,7 +10,7 @@ I made this tool for myself to use but if u got this tool, use it wisely
 
 `Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS ATTACKs WITHOUT SITE OWNER'S PERMISSION IS ILLEGAL.. SO USE IT AT YOUR OWN RISK.. I WILL NOT BE RESPONSIBLE FOR ANY TYPES OF MISISSUES!!!`
 
-<h1 style="color:red" align="center"> How To Install V-DdoS In Termux</h1>
+<h1 style="color:red" align="center"> How To Install Bey-DdoS In Termux</h1>
 
 <p><b>The Tool Installation Process Is Very Easy.. Just Open Your Termux & Type This Provided Commands!!</b></p>
 
