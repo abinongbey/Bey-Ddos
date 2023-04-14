@@ -37,7 +37,7 @@
 
 <img src="https://www.instagram.com/p/CpW8HFVJWaM/?igshid=YmMyMTA2M2Y=.jpg">
 
-<p><b>abinongbey ( Hackers Ahead ) is an indian group for every international beginners & Termux Hacker Group..We make working tools for termux.. Thank You So Much For Using Our Tool(s)</b></p>
+<p><b>abinongbey ( Hackers Ahead ) is an indian group for every international beginners & Termux Hacker Group..i make working tools for termux.. Thank You So Much For Using Our Tool(s)</b></p>
 
 <p style="color:purple"><b>Connect With Us:</b></p>
 
