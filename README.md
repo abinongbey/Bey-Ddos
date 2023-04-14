@@ -1,4 +1,5 @@
 # Hi I am Abinong Bey can say a script kiddie too 😅😅
+# i am a new hacker who entered the world of hacking to be a blue hat hacker 😎😎
 I made this tool for myself to use but if u got this tool, use it wisely
 # Bey-DdoS<h1 style="color:red" align="center">What is Bey-DdoS tool?</h1>
 <div>
@@ -8,7 +9,8 @@ I made this tool for myself to use but if u got this tool, use it wisely
 <br>
 <h1 align="center" style="color:red">!!Warning!! <h1>
 
-`Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS ATTACKs WITHOUT SITE OWNER'S PERMISSION IS ILLEGAL.. SO USE IT AT YOUR OWN RISK.. I WILL NOT BE RESPONSIBLE FOR ANY TYPES OF MISISSUES!!!`
+`Note: DON'T MISUSE THIS TOOL, I WILL NOT BE RESPONSIBLE FOR ANY HARM U DID TO OTHERS WEBSITE
+dangerous yet easy
 
 <h1 style="color:red" align="center"> How To Install Bey-DdoS In Termux</h1>
 
