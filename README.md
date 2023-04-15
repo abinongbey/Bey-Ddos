@@ -41,9 +41,9 @@ dangerous yet easy
 
 <img src="https://www.instagram.com/p/CpW8HFVJWaM/?igshid=YmMyMTA2M2Y=.jpg">
 
-<p><b>abinongbey ( Hackers Ahead ) is an indian group for every international beginners & Termux Hacker Group..i make working tools for termux.. Thank You So Much For Using Our Tool(s)</b></p>
+<p><b>Abinong Bey( Hackers Ahead ) is an indian group for every international hackers..i make working tools for termux.. Thank You So Much For Using my Tool(s)</b></p>
 
-<p style="color:purple"><b>Connect With Us:</b></p>
+<p style="color:purple"><b>Connect With Me:</b></p>
 
 <h3 style="color:purple"> THANKS FOR USING MY TOOL </h3>
 
